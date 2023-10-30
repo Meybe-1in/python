@@ -1,5 +1,5 @@
 class Solution:
-    def reverseVowels(self, s: str) -> str:
+    def reverseVowels(s: str) -> str:
         s=list(s)
         n=len(s)
         left=0
@@ -14,4 +14,6 @@ class Solution:
             left+=1
             right-=1
         s=''.join(s)
-        return s
+        print(s)
+        
+    reverseVowels ("calisteinano")
