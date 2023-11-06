@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"vscode-pets.petColor": "purple",
+		"vscode-pets.petSize": "medium",
+		"vscode-pets.theme": "forest",
+		"vscode-pets.throwBallWithMouse": true
+	}
+}
